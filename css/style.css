@@ -17,3 +17,13 @@ body {
 /* ==========================
 	Write your solution here!
    ========================== */
+
+.text:hover {
+  width: 450px;
+  font-size: 4rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  text-align: center;
+  color: #2e354f;
+  background: white;
+}
